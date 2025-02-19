@@ -1,6 +1,7 @@
 # Quick and Easy DNS Change With 1 Button
-
-**DNS Options:** Electro, Shecan, Google, CloudFlare, and Remove All DNS
+**Ethernet file:** For users who use LAN ( Ethernet )
+**Wi-Fi file:** For users who use WiFi ( Wi-Fi )
+**DNS Options:** Electro, Shecan, 403 Online, Begzar, RadarGame, Google and Remove All DNS
 
 ## How To Use
 
