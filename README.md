@@ -1,15 +1,26 @@
-# Quick and Easy DNS Change With 1 Button
-**Ethernet file:** For users who use LAN ( Ethernet )
-**Wi-Fi file:** For users who use WiFi ( Wi-Fi )
-**DNS Options:** Electro, Shecan, 403 Online, Begzar, RadarGame, Google and Remove All DNS
+# 🔄 Quick & Easy DNS Change with One Click  
 
-## How To Use
+Easily switch between different DNS servers with a simple selection!  
 
-1. **Download** `DNS-Changer.bat`
-2. **Run** the file as Administrator
-3. **Select** your DNS and Enjoy!
+### 🎯 Supported DNS Options:  
+✅ **Electro**  
+✅ **Shecan**  
+✅ **403 Online**  
+✅ **Begzar**  
+✅ **RadarGame**  
+✅ **Google**  
+✅ **Remove All DNS**  
 
-## Note
-This software is for Wi-Fi networks. If you need it for Ethernet Or Other Networks, Just Change The Network Name in the App Like Command Below:
-```shell
-netsh interface ip set dns "Wi-Fi" static
+## 🚀 How to Use  
+
+1. **Download** `DNS-Changer.bat`  
+2. **Right-click** and **Run as Administrator**  
+3. **Select** your preferred DNS option and enjoy! 🎉  
+
+## ℹ️ Notes  
+
+- This script is designed for **Wi-Fi networks**.  
+- If you need it for **Ethernet** or any other network, simply **replace the network name** in the script, like this:  
+
+  ```shell
+  netsh interface ip set dns "Ethernet" static 8.8.8.8
